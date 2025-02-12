@@ -1,1 +1,5 @@
-
+title: Stephen J Curran PhD
+#logo: /assets/img/file # Path to image
+description: Astrophysicist and Data Scientist
+show downloads: true
+theme: jekyll-theme-minimal
