@@ -32,6 +32,6 @@
 - UNSW Faculty/School Research Grants Program ($12,000)
 - As the Principle Investigator, over 2000 hours  of peer reviewed observing time on the world's most competitive radio astronomical facilities
 
-**Staff Astronomer, European Southern Observatory, Chile(_2000 - 2001_)**
+**Staff Astronomer, European Southern Observatory, Chile (_2000 - 2001_)**
 - Support of the <i>Swedish ESO-Submillimetre Telescope</i> at the European Southern Observatory, La Silla Observatory
 - Observatory Coordinator
